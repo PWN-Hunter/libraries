@@ -1,0 +1,1 @@
+After successful build copy these libs ( .so files not folder ) to out/target/product/codename/system/lib !!!
